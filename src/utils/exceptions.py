@@ -1,0 +1,2 @@
+class InvalidVerticesError(Exception):
+    pass
